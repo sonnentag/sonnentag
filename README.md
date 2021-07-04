@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/sonnentag/sonnentag/main/assets/daemon-2.png)
+![](https://raw.githubusercontent.com/sonnentag/sonnentag/main/assets/daemon-2b.png)
 - 🌱 I’m currently enrolled in Holberton School Tulsa's Full Stack specialization with an estimated completion date in the coming weeks.
 - 🔭 Our studies have spanned from C through Python, MySQL, Flask APIs, SQLAlchemy, HTML/CSS/Bootstrap, Node/JS, etc. through to now working with React and Webpack, with weekly interview prep algorithm assignments along the way.
 - ⚡ After starting in tech support I've worked as remote hands in datacenters and have extensive experience as webhosting support across many platforms and technologies. I see my current enrollment in Holberton's Full Stack program as a perfect compliment to my previous backend experience.
